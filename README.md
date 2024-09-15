@@ -1,5 +1,6 @@
 # FLUX FILESYSTEM, 16 BIT VERSION
 # feel free to contribute to this file system, by writing drivers, etc..
+# We may too include your contributions in this code.
 
 A custom 16 bit file system designed to support my architecture.
 - Written in python.
