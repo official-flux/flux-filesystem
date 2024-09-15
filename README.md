@@ -3,6 +3,7 @@ A custom 16 bit file system designed to support my architecture.
 - Written in python.
 - Simple
 - Lightweight
+
 CONS:
 - max 64 kilobytes
 - each file maximum 4 bytes. (Registry like)
