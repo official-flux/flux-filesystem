@@ -20,4 +20,4 @@ CONS:
 - in $inf file there are 32 bytes, each byte represents a file/folder, 0 for file, 1 for folder.
 - a folder in this filesystem is a file, it's content is metadata.
 - feel free to contribute to this file system, by writing drivers, etc..
-- 
+
